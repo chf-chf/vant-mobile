@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <img src="https://www.sunniejs.cn/static/weapp/logo.png" /><span> {{ $t('title') }}</span>
+    <img src="/@/assets/logo.png" /><span> {{ $t('title') }}</span>
   </header>
   <div class="intro-header">
     <div>{{ $t('introduction') }}</div>
